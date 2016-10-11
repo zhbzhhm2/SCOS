@@ -39,8 +39,6 @@ LoginOrRegister.java
 12. 修改 MainScreen.java 代码，判断由 LoginOrRegister 传回的 String 数据值。如果
 返回数据为“LoginSuccess”，则检查“点菜”和“查看订单”是否为隐藏状态，
 如果为隐藏，则设为显示
-中国科学技术大学 软件学院（苏州）
-信息来自 http://staff.ustc.edu.cn/~waterzhj/ 第 2 页 共 2 页
 13. 新建一个工程为 TestSCOS，在该工程中添加 Activity 类 TestMain.java，在
 TestMain 屏幕中添加一个按钮“SCOS”，当点击此按钮时，屏幕跳转至 SCOS
 的 MainScreen 屏幕。请根据调试信息，解决程序错误，达到正确运行此功能。
