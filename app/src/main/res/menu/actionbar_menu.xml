@@ -1,0 +1,21 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/menuReaday"
+        android:orderInCategory="1"
+        android:showAsAction="ifRoom|withText"
+        android:title="已点菜品"/>
+    <item
+        android:id="@+id/menuNotReaday"
+
+        android:orderInCategory="2"
+        android:showAsAction="ifRoom|withText"
+        android:title="查看订单"/>
+
+    <item
+        android:id="@+id/menuHu"
+        android:orderInCategory="3"
+        android:showAsAction="ifRoom|withText"
+        android:title="呼叫服务"/>
+
+</menu>
